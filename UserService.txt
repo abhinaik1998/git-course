@@ -1,0 +1,3 @@
+1 get the user data 
+2 process the user data
+3 store in database
